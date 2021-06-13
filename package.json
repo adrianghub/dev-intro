@@ -1,0 +1,16 @@
+{
+  "name": "dev-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w sass/ -o css/",
+    "less": "lessc style.less css/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lesshat": "^4.1.0"
+  }
+}
